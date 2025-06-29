@@ -1,5 +1,7 @@
 # Build a Modern Portfolio Website with React & TailwindCSS
 
+https://www.youtube.com/watch?v=LGdPMf-SgBA&list=WL&index=4
+
 <div align="center">
   <br />
   <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
